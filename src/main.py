@@ -6,6 +6,7 @@ def main(): #hp, damage, armor
     Pelle = Character("Pelle", 5, 20, 1)
     Erik = Character("Erik", 15, 6, 5)
     
+    
     print(Linus)
     print(Adam)
     print(Pelle)
